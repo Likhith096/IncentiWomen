@@ -1,0 +1,17 @@
+.intro-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .intro-box {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9
+  }  
+  .welcome{
+    font-size: larger;
+    margin: 20px;
+  }
